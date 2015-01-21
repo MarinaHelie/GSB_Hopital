@@ -1,0 +1,11 @@
+c:\users\marina\documents\visual studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\bin\Debug\Gsb_Hopital_Version1.exe.config
+C:\Users\Marina\Documents\Visual Studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\bin\Debug\Gsb_Hopital_Version1.exe
+C:\Users\Marina\Documents\Visual Studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\bin\Debug\Gsb_Hopital_Version1.pdb
+C:\Users\Marina\Documents\Visual Studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\obj\Debug\Gsb_Hopital_Version1.csprojResolveAssemblyReference.cache
+C:\Users\Marina\Documents\Visual Studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\obj\Debug\Gsb_Hopital_Version1.FillOrCancel.resources
+C:\Users\Marina\Documents\Visual Studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\obj\Debug\Gsb_Hopital_Version1.Naviguation.resources
+C:\Users\Marina\Documents\Visual Studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\obj\Debug\Gsb_Hopital_Version1.NewCustomer.resources
+C:\Users\Marina\Documents\Visual Studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\obj\Debug\Gsb_Hopital_Version1.Properties.Resources.resources
+C:\Users\Marina\Documents\Visual Studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\obj\Debug\Gsb_Hopital_Version1.csproj.GenerateResource.Cache
+C:\Users\Marina\Documents\Visual Studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\obj\Debug\Gsb_Hopital_Version1.exe
+C:\Users\Marina\Documents\Visual Studio 2013\Projects\Gsb_Hopital_Version1\Gsb_Hopital_Version1\obj\Debug\Gsb_Hopital_Version1.pdb
